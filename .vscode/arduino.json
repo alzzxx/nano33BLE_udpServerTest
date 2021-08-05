@@ -1,0 +1,6 @@
+{
+    "sketch": "nano33BLE_udpServerTest.ino",
+    "board": "arduino:mbed:nano33ble",
+    "output": "../nano33BLE_udpServerTest/build",
+    "port": "COM13"
+}
